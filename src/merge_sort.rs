@@ -1,3 +1,3 @@
-pub fn merge_sort() {
+pub fn merge_sort(nums: Vec<u32>) {
     
 }
